@@ -1,13 +1,14 @@
-<div align="center">
+
+  <div align="center">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%" />
     </div> 
 
 ### <div align="center">Hey There 👋 I'm Pradeep Sharma, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
     
-    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
+   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
     <!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
     
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepsharma52&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepsharma52" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepsharma52&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepsharma52" /> </p>
     
     - 🔭 I’m currently working on [E-Commerce Website](#)
     
@@ -60,15 +61,13 @@
      
      
      
-    
-    </td></tr></table>  
-    
+   </td></tr></table>  
     <br/>  
     
     
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsharma52&show_icons=true&locale=en&layout=compact" alt="pradeepsharma52" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsharma52&show_icons=true&locale=en&layout=compact" alt="pradeepsharma52" /></p>
     
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepsharma52&show_icons=true&locale=en" alt="pradeepsharma52" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepsharma52&show_icons=true&locale=en" alt="pradeepsharma52" /></p>
     
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepsharma52&" alt="pradeepsharma52" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepsharma52&" alt="pradeepsharma52" /></p>
     
